@@ -1,9 +1,16 @@
-import "./App.css";
+import "./App.scss";
+import React from "react";
+
+import Header from "./Components/Header";
+import Main from "./Components/Main";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
     <div>
-      <header>Welcome to Crystal Shop</header>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   );
 }
