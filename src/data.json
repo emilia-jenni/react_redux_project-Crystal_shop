@@ -2,44 +2,65 @@
   "products": [
     {
       "id": "crystal1",
-      "image": "/assets/crystal.jpg",
-      "title": "",
-      "description": "",
+      "image": "https://drive.bc.fi/portal/s/1774404723819262315.jpg",
+      "title": "Malachite",
+      "description": "A guardian of the heart, a healer of broken bones and blood pressure, and a protector from the toxic flow of negative energy – Malachite is a busy stone. Green color gemstones always seem to have super strength powers and love connecting to the heart chakra. Malachite is no exception, and with its energetic properties, it does an amazing job in encouraging you to let go of old traumas and patterns and to step outside your comfort zone. Let’s take a look at all the ways Malachite can work its magic to balance your body, mind, and soul…",
       "price": 29.9
     },
     {
       "id": "crystal2",
-      "image": "/assets/crystal2.jpg",
-      "title": "",
-      "description": "",
+      "image": "https://drive.bc.fi/portal/s/08364914271234768833.jpg",
+      "title": "Labradorite",
+      "description": "Just like the Northern Lights that illuminate the winter skies of the hard north, Labradorite doesn’t shy away from beauty, grace, mysticism, and great healing powers. While sometimes the world can strip us of our much-needed energy and precious resources, Labradorite teaches us how to bring life-giving energy to all areas of our souls – from the body to the mind and those deep hard to reach corners which keep us all in balance. It’s a stone that shows the way to self-soothing, artistic ambition, cosmic energy, and enhancing our own mental clarity. Take a look at all the ways in which Labradorite is considered to be the Stone of Transformation.",
       "price": 18.9
     },
     {
       "id": "crystal3",
-      "image": "/assets/crystal3.jpg",
-      "title": "",
-      "description": "",
+      "image": "https://drive.bc.fi/portal/s/5003459020284508402.jpg",
+      "title": "Elbaite",
+      "description": "Elbaite is a crystal that is good for new beginnings, creativity, enhanced imagination, and awareness. It promotes dreams, imagination, and imagery. It cleanses, purifies, and transforms dense energy into a lighter vibration. Elbaite is good for spiritual love. It helps to provide a gateway into the inner self and higher spiritual realms. It grounds spiritual energy and helps to form a protective shield around the body. It brings the body, mind, spirit, and soul into wholeness, providing a gateway into the inner being and facilitating accessing the higher spiritual realms.It has a strong affinity with the device energies and is especially beneficial for gardens and plants. Elbaite is good for love, mending a broken heart, and helping destructive behavior. Has the energy of mental balance, it balances the right and left sides of the brain. It gets rid of any feelings of being the victim and helps to attract compassion, inspiration, prosperity, and tolerance. It helps to release tension. It is good for the removal of blockages.",
       "price": 14.9
     },
     {
       "id": "crystal4",
-      "image": "/assets/crystal4.jpg",
-      "title": "",
-      "description": "",
+      "image": "https://drive.bc.fi/portal/s/77830893802018671667.jpg",
+      "title": "Cerussite",
+      "description": "Cerussite is inspiring, facilitating hope and a willingness to overcome difficulty or density. It shows one how light can come from the darkest depths and it assists with the transformation of ourselves into enlightened beings. It encourages clarity of thought, and can give hope to those who feel overwhelmed. Cerussite can assist in times of unexpected transition, showing us the most appropriate new pattern in our life.",
       "price": 25.9
     },
     {
-      "id": "dress5",
-      "image": "/assets/dress5.jpg",
-      "title": "",
-      "description": "",
+      "id": "crystal5",
+      "image": "https://drive.bc.fi/portal/s/0195172234801345121303.jpg",
+      "title": "White Quartz",
+      "description": "White Quartz is used if you have been looking for powerful healing and balancing gemstone and benefits from its special powers. Discover more about white quartz meaning, benefit, and healing properties.",
       "price": 10.9
     },
     {
-      "id": "dress6",
-      "image": "/assets/dress6.jpg",
-      "title": "",
-      "description": "",
+      "id": "crystal6",
+      "image": "https://drive.bc.fi/portal/s/1111741290154709497.jpg",
+      "title": "Rose Crystal",
+      "description": "This link stone is all about love. It is said to help restore trust and harmony in different kinds of relationships while improving their close connections.",
+      "price": 49.9
+    },
+    {
+      "id": "crystal7",
+      "image": "https://drive.bc.fi/portal/s/11253765021269100936.jpg",
+      "title": "Amber",
+      "description": "Amber is a powerful healer and cleanser of the body, mind and spirit.  It also cleanses the environment.  Amber draws disease from the body, healing and renewing the nervous system and balancing the right and left parts of the brain.  It absorbs pain and negative energy, helping to alleviate stress.  Amber clears depression, stimulates the intellect and promotes self-confidence and creative self-expression.  It encourages decision-making, spontaneity and brings wisdom, balance and patience. It opens the throat centre, treating goiters and other throat problems.  It also treats stomach, spleen, kidneys, bladder, liver and gallbladder.  Amber strengthens the mucus membranes and alleviates joint problems.",
+      "price": 49.9
+    },
+    {
+      "id": "crystal8",
+      "image": "https://drive.bc.fi/portal/s/03075460420428401406.jpg",
+      "title": "Ruby",
+      "description": "A red standout, this stone helps restore vitality and energy levels. This will help improve thing such as sensuality, and intellect. It will also help bring self-awareness and the realization of truth to one's mind. Rubies were used in ancient times to help remove toxins from blood and improve the overall circulation system.",
+      "price": 49.9
+    },
+    {
+      "id": "crystal9",
+      "image": "https://drive.bc.fi/portal/s/049779150001632104439.jpg",
+      "title": "Rainbow Crystal",
+      "description": "Rainbow Crystal is an excellent dream crystal. It will bring you inspiring and motivating dreams that will get you to act and make them a reality. It will ease the pain of disappointments and failures and imbue you with positive feelings to try again.",
       "price": 49.9
     }
   ]

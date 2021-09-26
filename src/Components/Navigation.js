@@ -19,7 +19,12 @@ const Navigation = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink exact to="cart">
+            <NavLink exact to="/products">
+              Products
+            </NavLink>
+          </li>
+          <li>
+            <NavLink exact to="/cart">
               Cart
             </NavLink>
           </li>
