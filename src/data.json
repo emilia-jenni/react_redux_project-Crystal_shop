@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "crystal1",
+      "image": "/assets/crystal.jpg",
+      "title": "",
+      "description": "",
+      "price": 29.9
+    },
+    {
+      "id": "crystal2",
+      "image": "/assets/crystal2.jpg",
+      "title": "",
+      "description": "",
+      "price": 18.9
+    },
+    {
+      "id": "crystal3",
+      "image": "/assets/crystal3.jpg",
+      "title": "",
+      "description": "",
+      "price": 14.9
+    },
+    {
+      "id": "crystal4",
+      "image": "/assets/crystal4.jpg",
+      "title": "",
+      "description": "",
+      "price": 25.9
+    },
+    {
+      "id": "dress5",
+      "image": "/assets/dress5.jpg",
+      "title": "",
+      "description": "",
+      "price": 10.9
+    },
+    {
+      "id": "dress6",
+      "image": "/assets/dress6.jpg",
+      "title": "",
+      "description": "",
+      "price": 49.9
+    }
+  ]
+}
