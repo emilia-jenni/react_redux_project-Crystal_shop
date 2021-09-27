@@ -9,7 +9,7 @@ const Cart = () => {
   return (
     <>
       <main className="cart">
-        {cartItems.length <= 0 && <p>No item in the Cart!</p>}
+        {cartItems.length <= 0 && <p>Your cart is empty</p>}
         <ul>
           {cartItems.map((cartItem) => (
             <li key={cartItem.id}>
