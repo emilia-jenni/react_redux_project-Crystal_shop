@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import HeroBanner from "../Components/HeroBanner";
 import photo1 from "../images/sellphoto.jpg";
 import photo2 from "../images/sellphoto1.jpg";
@@ -15,17 +16,33 @@ const Home = () => {
       <HeroBanner />
       <h1>Crystals:</h1>
       <div className="row1">
-        <img className="frontpgimg" src={photo1} alt="rose quartz"></img>
-        <img className="frontpgimg" src={photo2} alt="amethyst"></img>
-        <img className="frontpgimg" src={photo3} alt="quartz"></img>
-        <img className="frontpgimg" src={photo4} alt="jade"></img>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo1} alt="rose quartz"></img>
+        </Link>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo2} alt="amethyst"></img>
+        </Link>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo3} alt="quartz"></img>
+        </Link>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo4} alt="jade"></img>
+        </Link>
       </div>
       <h1>Collections:</h1>
       <div className="row2">
-        <img className="frontpgimg" src={photo5} alt="collection"></img>
-        <img className="frontpgimg" src={photo6} alt="collection2"></img>
-        <img className="frontpgimg" src={photo7} alt="quartz2"></img>
-        <img className="frontpgimg" src={photo8} alt="crystal"></img>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo5} alt="collection"></img>
+        </Link>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo6} alt="collection2"></img>
+        </Link>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo7} alt="quartz2"></img>
+        </Link>
+        <Link to="/crystals">
+          <img className="frontpgimg" src={photo8} alt="crystal"></img>
+        </Link>
       </div>
     </div>
   );

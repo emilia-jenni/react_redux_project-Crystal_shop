@@ -1,4 +1,4 @@
-import { getProducts } from "../services/products";
+import { getCrystals } from "../services/crystals";
 
 export const INIT_CRYSTAL = "INIT_CRYSTAL";
 export const INIT_CART = "INIT_CART";
@@ -7,28 +7,28 @@ export const REMOVE_CRYSTAL = "REMOVE_PRODUCT";
 
 export const initializeState = () => {
   return async (dispatch) => {
-    const products = await getProducts();
+    const crystals = await getCrystals();
     dispatch({
       type: INIT_CRYSTAL,
-      payload: products,
+      payload: crystals,
     });
   };
 };
 
-export const addCrystal = (product) => {
+export const addCrystal = (crystal) => {
   return (dispatch) => {
     dispatch({
       type: ADD_CRYSTAL,
-      payload: product,
+      payload: crystal,
     });
   };
 };
 
-export const removeCrystal = (productID) => {
+export const removeCrystal = (crystalID) => {
   return (dispatch) => {
     dispatch({
       type: REMOVE_CRYSTAL,
-      payload: productID,
+      payload: crystalID,
     });
   };
 };

@@ -5,7 +5,8 @@ import { initializeState } from "./store/actions";
 
 import "./App.scss";
 
-import Products from "./Pages/Products";
+import Crystals from "./Pages/Crystals";
+import Collections from "./Pages/Collections";
 import Home from "./Pages/Home";
 import Cart from "./Pages/Cart";
 import Header from "./Components/Header";
@@ -25,9 +26,10 @@ const App = () => {
       <main>
         <Switch>
           <Route path="/" component={Home} exact />
-          <Route path="/products" component={Products} exact />
-          <Route path="/cart" component={Cart} exact />
           <Route path="/about" component={About} exact />
+          <Route path="/crystals" component={Crystals} exact />
+          <Route path="/collections" component={Collections} exact />
+          <Route path="/cart" component={Cart} exact />
         </Switch>
       </main>
       <Footer />

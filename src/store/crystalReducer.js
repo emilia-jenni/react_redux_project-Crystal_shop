@@ -1,6 +1,6 @@
 import * as actionTypes from "./actions";
 
-const productReducer = (state = [], action) => {
+const crystalReducer = (state = [], action) => {
   switch (action.type) {
     case actionTypes.INIT_CRYSTAL:
       return action.payload;
@@ -9,4 +9,4 @@ const productReducer = (state = [], action) => {
   }
 };
 
-export default productReducer;
+export default crystalReducer;

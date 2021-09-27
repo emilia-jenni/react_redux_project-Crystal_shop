@@ -1,0 +1,88 @@
+{
+  "collections": [
+    {
+      "id": "collection1",
+      "image": "https://drive.bc.fi/portal/s/4954989301045168461.jpg",
+      "title": "Starter Kit 1",
+      "description": "With this collection you receive what you need to get started on your journey to healing and cleansing.",
+      "price": 59.9
+    },
+    {
+      "id": "collection2",
+      "image": "https://drive.bc.fi/portal/s/016298048621624727401.jpg",
+      "title": "Starter Kit 2",
+      "description": "With this starter kit you can start your journey to a more peaceful mind. Amethyst is a natural tranquilizer. It relieves stress and strain, soothes irribility, balances mood swings, dispels anger, rage, fear, and anxiety.",
+      "price": 48.9
+    },
+    {
+      "id": "collection3",
+      "image": "https://drive.bc.fi/portal/s/013851360530578182668.jpg",
+      "title": "Collection 1",
+      "description": "Collection with crystals and tarot cards. Tarot cards are best used as a tool of inner wisdom and guidance. They are used to give insignt to past, current, and future events based on the person's current path at the time of the reading. Several deck designs available",
+      "price": 149.9
+    },
+    {
+      "id": "collection4",
+      "image": "https://drive.bc.fi/portal/s/010737077791948178393.jpg",
+      "title": "Crystal collection 1",
+      "description": "",
+      "price": 59.95
+    },
+    {
+      "id": "collection5",
+      "image": "https://drive.bc.fi/portal/s/01121744134310899495.jpg",
+      "title": "Crystal Collection 2",
+      "description": "White Quartz is used if you have been looking for powerful healing and balancing gemstone and benefits from its special powers. Discover more about white quartz meaning, benefit, and healing properties.",
+      "price": 49.95
+    },
+    {
+      "id": "collection6",
+      "image": "https://drive.bc.fi/portal/s/12568480661039917238.jpg",
+      "title": "Quartz and Candle Duo Pack",
+      "description": "This link stone is all about love. It is said to help restore trust and harmony in different kinds of relationships while improving their close connections.",
+      "price": 23.85
+    },
+    {
+      "id": "collection7",
+      "image": "https://drive.bc.fi/portal/s/1615365108258173232.jpg",
+      "title": "Collection 2: Herbs and Crystals",
+      "description": "",
+      "price": 89.9
+    },
+    {
+      "id": "collection8",
+      "image": "https://drive.bc.fi/portal/s/36603469601679055783.jpg",
+      "title": "Crystal Collection 3",
+      "description": "Extensive collection of crystals.",
+      "price": 155.9
+    },
+    {
+      "id": "collection9",
+      "image": "https://drive.bc.fi/portal/s/55240534901457657487.jpg",
+      "title": "Starter Kit 3",
+      "description": "With this starter kit you get a tarot card deck with the design of your choice, with amethysts, quartzs, and lavender.",
+      "price": 99.8
+    },
+    {
+      "id": "collection10",
+      "image": "https://drive.bc.fi/portal/s/5159389511056950270.jpg",
+      "title": "Collection 4",
+      "description": "Scented candles, herbs, and crystals",
+      "price": 79.95
+    },
+    {
+      "id": "collection11",
+      "image": "https://drive.bc.fi/portal/s/016940518962053763834.jpg",
+      "title": "Collection 5",
+      "description": "Scented Candles, crystals, tarot deck with the design you choose, and herbs",
+      "price": 149.9
+    },
+    {
+      "id": "collection12",
+      "image": "https://drive.bc.fi/portal/s/01900317840995044604.jpg",
+      "title": "Crystal Collection 5",
+      "description": "Rainbow Crystal is an excellent dream crystal. It will bring you inspiring and motivating dreams that will get you to act and make them a reality. It will ease the pain of disappointments and failures and imbue you with positive feelings to try again.",
+      "price": 49.9
+    }
+  ]
+}

@@ -16,7 +16,7 @@ html {
     background: transparent;
   }
   &::-webkit-scrollbar-thumb {
-    background: powderblue;
+    background: #9db5bb;
     border-radius: 5rem;
   }
 }
@@ -56,7 +56,7 @@ nav {
     padding: 35px 15px;
     text-decoration: none;
     font-family: "Great Vibes", cursive;
-    color: #d4c1d9;
+    color: #dfdfdf;
     &:hover {
       color: #deac49;
       transform: scale(1.1);

@@ -19,8 +19,13 @@ const Navigation = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink exact to="/products">
-              Products
+            <NavLink exact to="/crystals">
+              Crystals
+            </NavLink>
+          </li>
+          <li>
+            <NavLink exact to="/collections">
+              Collections
             </NavLink>
           </li>
           <li>

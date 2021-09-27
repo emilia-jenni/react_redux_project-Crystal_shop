@@ -2,8 +2,8 @@ import axios from "axios";
 
 const baseURL = "http://localhost:3001";
 
-export const getProducts = async () => {
-  const response = await axios.get(baseURL + "/products");
+export const getCrystals = async () => {
+  const response = await axios.get(baseURL + "/crystals");
   return response.data;
 };
 

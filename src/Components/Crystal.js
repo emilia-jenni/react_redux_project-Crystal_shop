@@ -2,9 +2,9 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import "../App.scss";
 
-const Product = ({ title, image, description, price }) => {
+const Crystal = ({ title, image, description, price }) => {
   return (
-    <div className="productsingle">
+    <div className="crystalsingle">
       <Card style={{ width: "25rem" }}>
         <Card.Img variant="top" src={image} />
         <Card.Body>
@@ -17,4 +17,4 @@ const Product = ({ title, image, description, price }) => {
   );
 };
 
-export default Product;
+export default Crystal;
